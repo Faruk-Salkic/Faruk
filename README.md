@@ -14,5 +14,5 @@
 
 ### 📫 How to reach me
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/Faruk-Salic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/[faruk-salkic]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/faruk-salkic)
 # Faruk
