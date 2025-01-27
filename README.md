@@ -4,7 +4,6 @@
 💡 Always curious, always learning.
 
 ### 🔧 Technologies & Tools
-- 🖥️ **Languages**: HTML, CSS, JavaScript
 - 🛠️ **Tools**: Selenium, Cypress, Postman
 - 🐞 **Specialty**: End-to-End Testing, Bug Reporting
 
