@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faruk-Salkic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.zohan.tech/api?username=Faruk-Salkic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <i>🕐 Last updated: January 8, 2026 at 01:08 AM</i>
+  <i>🕐 Last updated: January 8, 2026 at 01:10 AM</i>
 </p>
