@@ -1,17 +1,65 @@
-# Cheers, I'm Faruk 👋
-🚀 **QA Tester Extraordinaire**  
-🔍 Passionate about finding and squashing bugs!  
-💡 Always curious, always learning.
+# Hi there! 👋 I'm Faruk
 
-### 🔧 Technologies & Tools
-- 🛠️ **Tools**: Selenium, Cypress, Postman
-- 🐞 **Specialty**: End-to-End Testing, Bug Reporting
+🤖 Making machines do the work | Marketing Automation
 
-### 🌟 Fun Facts
-- I love turning chaos into clean, functional code.
-- My motto: "If it’s not perfect, it’s not done."
+---
 
-### 📫 How to reach me
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/Faruk-Salic)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/faruk-salkic)
-# Faruk
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faruk-Salkic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruk-Salkic&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faruk-Salkic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faruk-Salkic&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## 📂 Recently Updated Repos
+
+- [**velvet-explore-audio**](https://github.com/Faruk-Salkic/velvet-explore-audio) ⭐ 0 | Various
+- [**aura-architect-legal**](https://github.com/Faruk-Salkic/aura-architect-legal) ⭐ 0 | HTML
+- [**Faruk**](https://github.com/Faruk-Salkic/Faruk) ⭐ 0 | Various
+
+## 📈 Profile Stats
+
+| Stat | Count |
+|------|-------|
+| 📁 Public Repos | 3 |
+| 👥 Followers | 0 |
+| 👤 Following | 0 |
+| ⭐ Public Gists | 0 |
+
+---
+
+## 🔗 Connect with me
+
+<p align="center">
+  <a href="https://github.com/Faruk-Salkic">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>⚡ This README auto-updates daily via n8n!</i><br/>
+  <i>🕐 Last updated: January 8, 2026 at 01:03 AM</i>
+</p>
