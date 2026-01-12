@@ -16,20 +16,11 @@
 
 ---
 
-## 📂 Recently Updated Repos
+## 📈 Quick Stats
 
-- [**Faruk**](https://github.com/Faruk-Salkic/Faruk) ⭐ 0 | Various
-- [**velvet-explore-audio**](https://github.com/Faruk-Salkic/velvet-explore-audio) ⭐ 0 | Various
-- [**aura-architect-legal**](https://github.com/Faruk-Salkic/aura-architect-legal) ⭐ 0 | HTML
-
-## 📈 Profile Stats
-
-| Stat | Count |
-|------|-------|
-| 📁 Public Repos | 3 |
-| 👥 Followers | 0 |
-| 👤 Following | 0 |
-| ⭐ Public Gists | 0 |
+| 📁 Repos | 👥 Followers | 👤 Following |
+|----------|--------------|---------------|
+| 3 | 0 | 0 |
 
 ---
 
@@ -49,3 +40,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
+
+<p align="center"><i>☕ Take breaks to stay productive</i></p>
