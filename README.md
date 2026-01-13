@@ -41,4 +41,4 @@
   <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"><i>📚 Learn something new today</i></p>
+<p align="center"><i>🎯 Focus on one task at a time</i></p>
