@@ -41,4 +41,4 @@
   <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"><i>🚀 Ship it, then improve it</i></p>
+<p align="center"><i>💡 Document your code</i></p>
