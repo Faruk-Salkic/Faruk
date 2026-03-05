@@ -41,4 +41,4 @@
   <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"><i>📊 Measure what matters</i></p>
+<p align="center"><i>☕ Take breaks to stay productive</i></p>
