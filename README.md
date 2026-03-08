@@ -41,4 +41,4 @@
   <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center"><i>🧹 Clean code = happy code</i></p>
+<p align="center"><i>📊 Measure what matters</i></p>
