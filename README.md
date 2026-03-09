@@ -2,7 +2,7 @@
 
 **Marketing & Automation @ alooweb.de**
 
-I work in digital marketing and automation — helping businesses grow with smarter systems, better ads, and content that converts. Based in Germany, working at [alooweb.de](https://alooweb.de).
+I work in digital marketing and automation, helping businesses grow with smarter systems, better ads, and content that converts. Based in Germany, working at [alooweb.de](https://alooweb.de).
 
 This repo is my personal knowledge base. Notes, templates, and workflow ideas I find useful day to day.
 
