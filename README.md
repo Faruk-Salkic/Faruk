@@ -1,44 +1,45 @@
-# Hi there! 👋 I'm Faruk
+# Hey, I am Faruk Salkic :wave:
 
-🤖 Making machines do the work | Marketing Automation
+**Marketing & Automation @ alooweb.de**
 
----
+I work in digital marketing and automation — helping businesses grow with smarter systems, better ads, and content that converts. Based in Germany, working at [alooweb.de](https://alooweb.de).
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.zohan.tech/api?username=Faruk-Salkic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faruk-Salkic&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+This repo is my personal knowledge base. Notes, templates, and workflow ideas I find useful day to day.
 
 ---
 
-## 📈 Quick Stats
+## What is in here
 
-| 📁 Repos | 👥 Followers | 👤 Following |
-|----------|--------------|---------------|
-| 3 | 0 | 0 |
-
----
-
-## 🔗 Connect with me
-
-<p align="center">
-  <a href="https://github.com/Faruk-Salkic">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/faruk-salkic">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+| Folder | What you will find |
+|--------|-------------------|
+| [/google-ads](./google-ads) | Campaign checklists, bid strategy notes |
+| [/social-media](./social-media) | Content calendars, caption templates |
+| [/seo-research](./seo-research) | Keyword research notes, content gaps |
+| [/email-marketing](./email-marketing) | Sequence templates, deliverability tips |
+| [/content-strategy](./content-strategy) | Briefs, outlines, editorial process |
+| [/analytics](./analytics) | GA4 setup, Looker Studio notes |
+| [/automation](./automation) | n8n workflows, automation ideas |
+| [/ai-tools](./ai-tools) | Tool reviews, prompt tips |
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Faruk-Salkic&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+## Tools I use
 
-<p align="center"><i>☕ Take breaks to stay productive</i></p>
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=google&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-1877F2?style=flat&logo=facebook&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![GA4](https://img.shields.io/badge/GA4-E37400?style=flat&logo=google-analytics&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-D97757?style=flat&logo=anthropic&logoColor=white)
+
+---
+
+## Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/faruk-salkic)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Faruk-Salkic)
+
+---
+
+<sub>Last updated: 2026-03-09</sub>
