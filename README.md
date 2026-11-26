@@ -42,4 +42,4 @@ This repo is my personal knowledge base. Notes, templates, and workflow ideas I 
 
 ---
 
-<sub>Last updated: 2026-11-25</sub>
+<sub>Last updated: 2026-11-26</sub>
